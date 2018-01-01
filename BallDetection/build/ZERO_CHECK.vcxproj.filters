@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\djorna.Pokedex\Documents\ZED\BallDetection\build\CMakeFiles\e2beffe9c6c5392d95da74191d88ef56\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C6285B11-E2A4-3E4F-AEE4-0F2648630B8D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
