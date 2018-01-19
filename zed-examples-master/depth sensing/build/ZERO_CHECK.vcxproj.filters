@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\djorna.Pokedex\Documents\ZED\zed-examples-master\depth sensing\build\CMakeFiles\01ca53c08e70b9bc863681ba07fcdf74\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{CC641327-9196-394E-BC56-C9E732BEF572}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

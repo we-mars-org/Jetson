@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\djorna.Pokedex\Documents\ZED\zed-examples-master\positional tracking\build\CMakeFiles\92822032583b5faacce86b02b030b638\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A072AA4E-9809-3786-88CB-2E23524D497D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

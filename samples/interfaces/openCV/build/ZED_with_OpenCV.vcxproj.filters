@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\djorna.Pokedex\Documents\ZED\samples\interfaces\openCV\src\SaveDepth.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\djorna.Pokedex\Documents\ZED\samples\interfaces\openCV\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\djorna.Pokedex\Documents\ZED\samples\interfaces\openCV\include\SaveDepth.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\djorna.Pokedex\Documents\ZED\samples\interfaces\openCV\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{EB991411-5022-3033-8CF2-2DB0083243A5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{05DA43B4-A299-3948-B40D-D68C8D94E0DE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

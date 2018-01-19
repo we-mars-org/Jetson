@@ -1,0 +1,3 @@
+C:/Users/djorna.Pokedex/Documents/ZED/zed-examples-master/tutorials/tutorial 2 - image capture/build/CMakeFiles/ZED_Tutorial_2.dir
+C:/Users/djorna.Pokedex/Documents/ZED/zed-examples-master/tutorials/tutorial 2 - image capture/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/djorna.Pokedex/Documents/ZED/zed-examples-master/tutorials/tutorial 2 - image capture/build/CMakeFiles/ZERO_CHECK.dir

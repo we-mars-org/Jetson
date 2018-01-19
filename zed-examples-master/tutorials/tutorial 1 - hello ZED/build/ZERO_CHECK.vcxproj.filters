@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\djorna.Pokedex\Documents\ZED\zed-examples-master\tutorials\tutorial 1 - hello ZED\build\CMakeFiles\0237812d57f740b8cff61337b5f2d23d\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{DA8A6E37-A5C2-34E6-A33B-63CDD7EA1D4A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

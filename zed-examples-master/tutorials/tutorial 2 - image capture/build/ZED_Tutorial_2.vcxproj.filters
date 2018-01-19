@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\djorna.Pokedex\Documents\ZED\zed-examples-master\tutorials\tutorial 2 - image capture\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\djorna.Pokedex\Documents\ZED\zed-examples-master\tutorials\tutorial 2 - image capture\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{64A6057F-59A7-3037-BBA7-A451A918494E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

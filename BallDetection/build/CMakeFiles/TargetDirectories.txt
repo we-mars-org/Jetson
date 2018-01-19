@@ -1,3 +1,3 @@
-C:/Users/djorna.Pokedex/Documents/ZED/BallDetection/build/CMakeFiles/BallDetection.dir
+C:/Users/djorna.Pokedex/Documents/ZED/BallDetection/build/CMakeFiles/ZED_with_OpenCV.dir
 C:/Users/djorna.Pokedex/Documents/ZED/BallDetection/build/CMakeFiles/ALL_BUILD.dir
 C:/Users/djorna.Pokedex/Documents/ZED/BallDetection/build/CMakeFiles/ZERO_CHECK.dir

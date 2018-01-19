@@ -1,0 +1,3 @@
+C:/Users/djorna.Pokedex/Documents/ZED/zed-examples-master/tutorials/tutorial 5 - spatial mapping/build/CMakeFiles/ZED_Tutorial_5.dir
+C:/Users/djorna.Pokedex/Documents/ZED/zed-examples-master/tutorials/tutorial 5 - spatial mapping/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/djorna.Pokedex/Documents/ZED/zed-examples-master/tutorials/tutorial 5 - spatial mapping/build/CMakeFiles/ZERO_CHECK.dir

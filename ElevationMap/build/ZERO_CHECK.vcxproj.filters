@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\djorna.Pokedex\Documents\ZED\ElevationMap\build\CMakeFiles\a0a1b29a25cafd226f52400fba2b1ad0\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7EDC07E1-5046-3A6D-B9EC-187822C90945}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

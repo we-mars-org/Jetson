@@ -1,0 +1,3 @@
+C:/Users/djorna.Pokedex/Documents/ZED/OpenCV/build/CMakeFiles/HelloCV.dir
+C:/Users/djorna.Pokedex/Documents/ZED/OpenCV/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/djorna.Pokedex/Documents/ZED/OpenCV/build/CMakeFiles/ZERO_CHECK.dir

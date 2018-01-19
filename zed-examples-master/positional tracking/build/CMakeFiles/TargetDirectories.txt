@@ -1,0 +1,3 @@
+C:/Users/djorna.Pokedex/Documents/ZED/zed-examples-master/positional tracking/build/CMakeFiles/ZED_Positional_Tracking.dir
+C:/Users/djorna.Pokedex/Documents/ZED/zed-examples-master/positional tracking/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/djorna.Pokedex/Documents/ZED/zed-examples-master/positional tracking/build/CMakeFiles/ZERO_CHECK.dir

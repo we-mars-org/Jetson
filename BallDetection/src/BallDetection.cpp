@@ -96,7 +96,7 @@ int main(int argc, char **argv) {
 
 	// Set configuration parameters
 	InitParameters init_params;
-	init_params.camera_resolution = RESOLUTION_VGA;
+	init_params.camera_resolution = RESOLUTION_HD1080;
 	init_params.depth_mode = DEPTH_MODE_PERFORMANCE;
 	init_params.coordinate_units = UNIT_METER;
 	init_params.camera_fps = 100;
